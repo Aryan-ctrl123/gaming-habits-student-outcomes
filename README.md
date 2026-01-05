@@ -1,6 +1,6 @@
 # Gaming Habits and Student Outcomes
 
-This repository contains an independent research project analyzing how gaming habits affect the academic and social life of university students.  
+This repository contains an independent research project analyzing how gaming habits affect the academic and social life of university students in Bangladesh.
 The study uses survey data and Python (Pandas, Seaborn, Matplotlib, SciPy) for statistical analysis and visualization.
 
 ---
@@ -42,11 +42,11 @@ Finding suggests: moderate gaming correlates with positive social outcomes and e
 ## 📈 Key Findings
 - **Gender Differences**: Average hours spent by women was found to be higher but a T-Test confirmed that their was not a big statistical difference.
 - **Social Interaction**: There was no significant correlation between the two, showing that gaming and social interactions are independent activities that do not have an effect on each other. This is proved by the regression line which slightly tilts downward, we could interepret that an increase in gaming hours decreases time spent with family and friends but statistical difference is too low to make that conclusion.
-- **Sleep Schedule**: Most students sleep at the earlier end of midnight,with the most frequent being 1 am, however students who sleep at these hours also generally attend their morning class, meaning that higher gaming is not affecting their attendance. My study shows that 49% of students sleep at 1 am attend their morniing class regularly, the percenatge is 62 for 12 am sleepers and 56 for 11 am sleepers. However any increase in sleep hours above that showed significant difference with morning attendane with the exception of 2am, The histogram in the figures folder shows that most students sleep between the hours 22-2 (24 Hour format).
+- **Sleep Schedule**: Most students sleep at the earlier end of midnight,with the most frequent being 1 am, however students who sleep at these hours also generally attend their morning class, meaning that higher gaming is not affecting their attendance. My study shows that 49% of students sleep at 1 am attend their morning class regularly, the percenatge is 62 for 12 am sleepers and 56 for 11 am sleepers. However any increase in sleep hours above that showed significant difference with morning attendane with the exception of 2am, The histogram in the figures folder shows that most students sleep between the hours 22-2 (24 Hour format).
 - **Academic Performance**: Students who play between 1-2 hours of games have  the highest average CGPA,further more, students who play inside the range of 3-6 hours of games have comparatively similar CGPAs, the CGPA value plummets at the 7-8 hour mark, showing that extreme gaming results in lower CGPAs. The data for 7-8 hour students was little but indicative. As shown in the bar/line graph, we can clearly make out the results i mentioned.
 - **Starting Age**: Research shows that students who started gaming late in their life have high hours of game time, we can see from the dual line graph that as gaming hours increases their hsc results decreases, this seems to take place in the age group of 16-24, the age with the highest HSC result is 14 years with an average of 4.81. They also have moderate gaming hours, this shows that, late teens like 14 year olds are able to balance academic life with gaming. 
 - **Emotional Impact**: Many students reported negative feelings when unable to play games daily, as seen in the line/bar graph. Surprisingly people who feels positive and people who feels negative have similar gaming hours but people who feel neutral have significantly less hours of game time. This may indicate that people who feel positive when not being able to play games daily may be encapsulated by the games and like to escape from them. On the other hand, for the people who felt negative, games may have become a part of their daily lives.
-
+- **Fan Favourite Games**: The data reveals that some games such as PUBG, FreeFire, and Call Of Duty, have higher number of students playing them , probably due to the lack of computers. Many students play games on their phone and ,thus, the popular mobile games tend to be played the most. However playing time doesnt change much based on the game, they tend to have similar play times.
   
 ## 📜 Data Source & License
 
